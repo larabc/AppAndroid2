@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AppResumen</string>
+    <string name="txt_name">Nombre</string>
+    <string name="txt_surname">Apellidos</string>
+    <string name="txt_web">Web</string>
+    <string name="txt_phone">Teléfono</string>
+
+    <string name="errEmptyName">Introduce un nombre</string>
+    <string name="errEmptySurname">Introduce un apellido</string>
+    <string name="errEmptyWeb">Introduce una web</string>
+    <string name="errEmptyPhone">Introduce un teléfono</string>
+    <string name="alert_title">Qué hacemos...</string>
+    <string name="alert_text">Borrar o no borrar</string>
+    <string name="txt_contador">Contador</string>
+    <string name="btn_yes">Si</string>
+    <string name="btn_no">No</string>
+    <string name="txt_show">MOSTRAR</string>
+    <string name="txt_delete">BORRAR</string>
+
+    <string name="btn_reset">Reset</string>
+
+</resources>

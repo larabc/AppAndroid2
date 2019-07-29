@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppResumen</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_surname">Surname</string>
+    <string name="txt_web">Web</string>
+    <string name="txt_phone">Phone</string>
+
+    <string name="errEmptyName">Write your name</string>
+    <string name="errEmptySurname">Write your surname</string>
+    <string name="errEmptyWeb">Write your website</string>
+    <string name="errEmptyPhone">Write your phone number</string>
+    <string name="alert_title">Do or not to do...</string>
+    <string name="alert_text">Delete it?</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="txt_contador">Times</string>
+    <string name="txt_show">SHOW</string>
+    <string name="txt_delete">DELETE</string>
+
+    <string name="btn_reset">Reset</string>
+
+</resources>
